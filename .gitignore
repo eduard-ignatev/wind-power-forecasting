@@ -1,0 +1,4 @@
+data/*.csv
+notebooks/.ipynb_checkpoints
+notebooks/catboost_info
+utils/__pycache__

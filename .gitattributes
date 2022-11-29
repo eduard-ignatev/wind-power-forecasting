@@ -1,0 +1,2 @@
+# Ignore notebooks from language stats
+*.ipynb linguist-documentation
