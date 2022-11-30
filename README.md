@@ -2,6 +2,8 @@
 
 This is a wind power forecasting application using machine learning algorithms for day-ahead energy trading.
 
+[![Wind Power Forecasting Streamlit App](https://user-images.githubusercontent.com/97912967/204868421-0840f34c-90c3-4347-8fba-05b4850cd507.png)](https://wind-power-forecasting.streamlit.app/)
+
 ## Why?
 
 My initial motivation was to explore the topic of time series analysis and forecasting through practice. I picked the wind power forecasting from a vast amount of challenges in energy domain related to time series. A power output of a specific wind farm is quite intermittent in nature, therefore it is really important for assets owner or energy trader to have an accurate prediction to participate in a day-ahead market. I later decided to set up a simple web application for demonstration purposes.
